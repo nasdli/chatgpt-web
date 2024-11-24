@@ -10,8 +10,8 @@ ChatGPT镜像网站就是把ChatGPT的内容复制到一个新的服务器上，
 ## ChatGPT国内中文镜像网站整理
 
 ### 用过比较好用的镜像站：
-1. https://snakegpt.work —— 运营时长一年半，支持GPT4、GPT4o，Midjourney绘画，国内QQ、网易邮箱直接注册，写论文、敲代码的得力助手
-2. https://gptcat.net/ —— 运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT与Claude，支持使用canvas模型，程序员的高级工具。
+1. [https://snakegpt.work](https://snakegpt.work) —— 运营时长一年半，支持GPT4、GPT4o，Midjourney绘画，国内QQ、网易邮箱直接注册，写论文、敲代码的得力助手
+2. [https://gptcat.net/](https://gptcat.net/) —— 运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT与Claude，支持使用canvas模型，程序员的高级工具。
 3. [https://ai-panda.xyz/](https://gptpanda.net/login?invite_code=34137c47) —— 运营时长两年，支持GPT4.0、GPT4o。
 4. http://gptdog.online/ —— 运营时长一年半，bug比较多，大家可以看情况使用。
 
